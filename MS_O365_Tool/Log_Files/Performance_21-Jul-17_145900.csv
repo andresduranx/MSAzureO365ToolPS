@@ -1,0 +1,58 @@
+Time,Action
+15:00:22,https://roche.sharepoint.com/sites/DCDigitalWorkplace/Vmigration
+15:00:22,Testing SharePoint contact speed
+15:00:24,Contact 1 1881 ms
+15:00:25,Contact 2 1257 ms
+15:00:26,Contact 3 1117 ms
+15:00:27,Contact 4 1218 ms
+15:00:27,Average contact speed of 1368.25 ms
+15:00:27,Authenticating
+15:00:27,Downloading Sample Files
+15:00:27,Downloading 100kb files
+15:00:28,Completed 100kb files
+15:00:28,Downloading 5000kb files
+15:00:40,Completed 5000kb files
+15:00:40,Downloading 2000kb files
+15:00:44,Completed 2000kb files
+15:00:44,Downloading 200MB files
+15:02:33,Completed 200MB files
+15:02:34,Document library created
+15:02:35,Start of upload
+15:04:13, 
+15:04:14, 
+15:04:16, 
+15:04:17, 
+15:04:18, 
+15:04:21, 
+15:04:25, 
+15:04:30, 
+15:04:33, 
+15:04:40, 
+15:04:48, 
+15:04:55, 
+15:05:03, 
+15:05:05,End of upload
+15:05:05,Testing SharePoint contact speed to new library
+15:05:07,Contact 1 1843 ms
+15:05:09,Contact 2 1970 ms
+15:05:10,Contact 3 1030 ms
+15:05:11,Contact 4 1402 ms
+15:05:11,Average contact speed of 2929.5 ms
+15:05:11,local files deleted
+15:05:11,Starting Download from SPO
+15:05:12,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:05:14,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:05:19,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:05:21,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:08:16,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:08:19,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:08:23,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:08:24,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:08:27,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:08:27,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:08:28,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:08:33,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:08:38,Microsoft.SharePoint.Client.File.Name has been downloaded
+15:08:38,Download completed
+15:08:39,local files deleted
+15:08:40,Document library deleted

@@ -1,0 +1,17 @@
+Time,Action
+15:35:09,https://arstconnazureo365.sharepoint.com
+15:35:09,Testing SharePoint contact speed
+15:35:11,Contact 1 1941 ms
+15:35:12,Contact 2 1003 ms
+15:35:13,Contact 3 955 ms
+15:35:14,Contact 4 1000 ms
+15:35:14,Average contact speed of 1224.75 ms
+15:35:14,Authenticating
+15:35:14,Downloading Sample Files
+15:35:14,Downloading 100kb files
+15:35:18,Completed 100kb files
+15:35:18,Downloading 5000kb files
+15:35:52,Completed 5000kb files
+15:35:52,Downloading 2000kb files
+15:36:07,Completed 2000kb files
+15:36:07,Downloading 200MB files

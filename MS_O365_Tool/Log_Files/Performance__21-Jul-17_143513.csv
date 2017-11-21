@@ -1,0 +1,12 @@
+Time,Action
+14:35:18,Testing SharePoint contact speed
+14:35:20,Contact 1 1919 ms
+14:35:21,Contact 2 1205 ms
+14:35:22,Contact 3 1117 ms
+14:35:23,Contact 4 1008 ms
+14:35:23,Average contact speed of 1312.25 ms
+14:35:23,Authenticating
+14:35:23,Downloading Sample Files
+14:35:23,Downloading 100kb files
+14:35:24,Completed 100kb files
+14:35:24,Downloading 5000kb files

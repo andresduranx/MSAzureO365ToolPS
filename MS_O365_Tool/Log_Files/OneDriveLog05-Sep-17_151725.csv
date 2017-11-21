@@ -1,0 +1,12 @@
+15:17:25, Start Process on OneDrive
+Time,Action
+15:17:27,Testing OneDrive Single-Sign-On
+15:17:27,Code Exist
+15:17:28, Get Authentication Token
+15:17:28, Authentication Token Exist
+@{token_type=Bearer; scope=MyFiles.Read MyFiles.Write; expires_in=3599; ext_expires_in=0; expires_on=1504649848; not_before=1504645948; resource=https://arstconnazureo365-my.sharepoint.com/; access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IkhIQnl,
+15:17:29, Drive Information
+@{@odata.context=https://arstconnazureo365-my.sharepoint.com/_api/v2.0/$metadata#drive; @odata.type=#oneDrive.drive; @odata.id=https://arstconnazureo365-my.sharepoint.com/_api/v2.0/drive; @odata.editLink=drive; createdBy=; createdDateTime=2017-05-19T06:14,
+15:17:30, Files and Folders in root drive
+   ,
+15:17:30, End Process

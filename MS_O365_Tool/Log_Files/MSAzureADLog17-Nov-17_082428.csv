@@ -1,0 +1,26 @@
+08:24:28, Start Process on Active Directory
+Time,Action
+08:24:50,Testing Connection to Ms O365
+08:24:50,SHOW LIST OF USER ACTIVE
+Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User
+08:24:51,SHOW ACTIVE LICENSES
+Microsoft.Online.Administration.AccountSkuDetails
+08:24:51,SHOW ACTIVE LICENSES AND DETAILS
+Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus
+08:24:52,SHOW NEW USER WAS CREATED INTO THE LIST OF USERS
+Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User
+08:24:53,SHOW ASSING LICENSE AT NEW USER
+Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User
+08:24:53,SHOW DETAILS OF SERVICE AND LICENSES OF NEW USER
+Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus Microsoft.Online.Administration.ServiceStatus
+08:24:54,SHOW List of Role Available
+                                  
+08:24:54,THE ROLE WAS ASSIGNED AT THE NEW USER SUCCESSFULLY
+
+08:24:55,THE FOLOWING IS THE CONFIGURATION OF USER PROPERTIES
+      
+08:24:56,SHOW REMOVE LICENSE AT NEW USER
+Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User
+08:24:57,SHOW THE USER WAS REMOVED IS NO LOGER AT LIST USERS
+Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User Microsoft.Online.Administration.User
+08:25:02, End Process on Active Directory

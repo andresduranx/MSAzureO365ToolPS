@@ -1,0 +1,45 @@
+Time,Action
+16:20:03,https://arstconnazureo365.sharepoint.com/SitePages/DevHome.aspx
+16:20:03,Testing SharePoint contact speed
+16:20:05,Contact 1 2030 ms
+16:20:06,Contact 2 974 ms
+16:20:07,Contact 3 947 ms
+16:20:08,Contact 4 981 ms
+16:20:08,Average contact speed of 1233 ms
+16:20:08,Authenticating
+16:20:08,Downloading Sample Files
+16:20:08,Downloading 100kb files
+16:20:13,Completed 100kb files
+16:20:13,Downloading 5000kb files
+16:20:40,Completed 5000kb files
+16:20:40,Downloading 2000kb files
+16:20:54,Completed 2000kb files
+16:20:54,Downloading 200MB files
+16:24:30,Completed 200MB files
+16:24:31,Document library created
+16:24:31,Start of upload
+16:24:31,Large_Zip_4.zip.BaseName uploaded
+16:24:32,Word_Document_100_1.doc.BaseName uploaded
+16:24:32,Word_Document_100_2.doc.BaseName uploaded
+16:24:32,Word_Document_100_3.doc.BaseName uploaded
+16:24:33,Word_Document_100_4.doc.BaseName uploaded
+16:24:33,Word_Document_2000_1.doc.BaseName uploaded
+16:24:34,Word_Document_2000_2.doc.BaseName uploaded
+16:24:34,Word_Document_2000_3.doc.BaseName uploaded
+16:24:35,Word_Document_2000_4.doc.BaseName uploaded
+16:24:35,Word_Document_5000_1.doc.BaseName uploaded
+16:24:36,Word_Document_5000_2.doc.BaseName uploaded
+16:24:36,Word_Document_5000_3.doc.BaseName uploaded
+16:24:37,Word_Document_5000_4.doc.BaseName uploaded
+16:24:37,End of upload
+16:24:37,Testing SharePoint contact speed to new library
+16:24:39,Contact 1 2027 ms
+16:24:40,Contact 2 984 ms
+16:24:41,Contact 3 1003 ms
+16:24:42,Contact 4 1006 ms
+16:24:42,Average contact speed of 2488 ms
+16:24:42,local files deleted
+16:24:43,Starting Download from SPO
+16:24:43,Download completed
+16:24:43,local files deleted
+16:24:44,Document library deleted

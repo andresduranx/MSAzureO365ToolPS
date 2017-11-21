@@ -1,0 +1,69 @@
+Time,Action
+09:13:44,https://arstconnazureo365.sharepoint.com
+09:13:44,Testing SharePoint contact speed
+09:13:46,Contact 1 1819 ms
+09:13:47,Contact 2 1077 ms
+09:13:48,Contact 3 1064 ms
+09:13:50,Contact 4 1123 ms
+09:13:50,Average contact speed of 1270.75 ms
+09:13:50,Authenticating
+09:13:50,Downloading Sample Files
+09:13:50,Downloading 100kb files
+09:13:55,Completed 100kb files
+09:13:55,Downloading 5000kb files
+09:14:20,Completed 5000kb files
+09:14:20,Downloading 2000kb files
+09:14:34,Completed 2000kb files
+09:14:34,Downloading 200MB files
+09:18:10,Completed 200MB files
+09:18:14,Document library created
+09:18:15,Start of upload
+09:32:37,Large_Zip_4.zip.BaseName uploaded
+09:32:39,Word_Document_100_1.doc.BaseName uploaded
+09:32:42,Word_Document_100_2.doc.BaseName uploaded
+09:32:43,Word_Document_100_3.doc.BaseName uploaded
+09:32:46,Word_Document_100_4.doc.BaseName uploaded
+09:32:59,Word_Document_2000_1.doc.BaseName uploaded
+09:33:12,Word_Document_2000_2.doc.BaseName uploaded
+09:33:25,Word_Document_2000_3.doc.BaseName uploaded
+09:33:38,Word_Document_2000_4.doc.BaseName uploaded
+09:34:08,Word_Document_5000_1.doc.BaseName uploaded
+09:34:39,Word_Document_5000_2.doc.BaseName uploaded
+09:35:10,Word_Document_5000_3.doc.BaseName uploaded
+09:35:40,Word_Document_5000_4.doc.BaseName uploaded
+09:35:42,End of upload
+09:35:42,Testing SharePoint contact speed to new library
+09:35:43,Contact 1 1805 ms
+09:35:44,Contact 2 933 ms
+09:35:45,Contact 3 973 ms
+09:35:46,Contact 4 908 ms
+09:40:47,Average contact speed of 2425.5 ms
+09:40:47,local files deleted
+09:40:47,Starting Download from SPO
+09:40:48,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:40:48,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_5000_3.doc has been downloaded
+09:40:56,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:40:56,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_5000_4.doc has been downloaded
+09:41:02,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:41:02,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_100_4.doc has been downloaded
+09:41:02,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:41:02,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_100_2.doc has been downloaded
+09:41:03,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:41:03,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_100_1.doc has been downloaded
+09:41:03,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:41:03,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_2000_4.doc has been downloaded
+09:41:07,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:41:07,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_5000_2.doc has been downloaded
+09:41:13,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:41:13,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_2000_3.doc has been downloaded
+09:41:17,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:41:17,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_100_3.doc has been downloaded
+09:41:17,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:41:17,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_5000_1.doc has been downloaded
+09:41:23,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:41:23,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_2000_2.doc has been downloaded
+09:41:27,Microsoft.SharePoint.Client.File.Name has been downloaded
+09:41:27,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool\Performance_Testing_Generic/Sample_Files/Word_Document_2000_1.doc has been downloaded
+09:41:30,Download completed
+09:41:30,local files deleted
+09:41:31,Document library deleted

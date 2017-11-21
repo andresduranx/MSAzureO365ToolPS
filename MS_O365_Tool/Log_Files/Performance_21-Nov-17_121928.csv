@@ -1,0 +1,71 @@
+Time,Action
+12:20:10,https://arstconnazureo365.sharepoint.com
+12:20:10,Testing SharePoint contact speed
+12:20:11,Contact 1 1170 ms
+12:20:12,Contact 2 900 ms
+12:20:13,Contact 3 867 ms
+12:20:14,Contact 4 823 ms
+12:20:14,Average contact speed of 940 ms
+12:20:14,Authenticating
+12:20:14,Downloading Sample Files
+12:20:14,Downloading 100kb files
+12:20:19,Completed 100kb files
+12:20:19,Downloading 5000kb files
+12:20:51,Completed 5000kb files
+12:20:51,Downloading 2000kb files
+12:21:05,Completed 2000kb files
+12:21:05,Downloading 200MB files
+12:24:46,Completed 200MB files
+12:24:49,Document library created
+12:24:49,Start of upload
+12:39:38,Large_Zip_4.zip.BaseName uploaded
+12:39:40,Word_Document_100_1.doc.BaseName uploaded
+12:39:42,Word_Document_100_2.doc.BaseName uploaded
+12:39:43,Word_Document_100_3.doc.BaseName uploaded
+12:39:44,Word_Document_100_4.doc.BaseName uploaded
+12:39:54,Word_Document_2000_1.doc.BaseName uploaded
+12:40:05,Word_Document_2000_2.doc.BaseName uploaded
+12:40:16,Word_Document_2000_3.doc.BaseName uploaded
+12:40:27,Word_Document_2000_4.doc.BaseName uploaded
+12:40:52,Word_Document_5000_1.doc.BaseName uploaded
+12:41:17,Word_Document_5000_2.doc.BaseName uploaded
+12:41:42,Word_Document_5000_3.doc.BaseName uploaded
+12:42:08,Word_Document_5000_4.doc.BaseName uploaded
+12:42:09,End of upload
+12:42:09,Testing SharePoint contact speed to new library
+12:42:11,Contact 1 1556 ms
+12:42:12,Contact 2 1385 ms
+12:42:13,Contact 3 884 ms
+12:42:14,Contact 4 1308 ms
+12:42:14,Average contact speed of 2223.25 ms
+12:42:14,local files deleted
+12:42:14,Starting Download from SPO
+12:42:15,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:42:15,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_2000_4.doc has been downloaded
+12:42:17,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:42:17,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Large_Zip_4.zip has been downloaded
+12:45:55,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:45:55,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_5000_1.doc has been downloaded
+12:46:01,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:46:01,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_5000_4.doc has been downloaded
+12:46:07,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:46:07,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_100_3.doc has been downloaded
+12:46:08,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:46:08,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_100_4.doc has been downloaded
+12:46:08,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:46:08,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_100_2.doc has been downloaded
+12:46:08,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:46:08,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_2000_3.doc has been downloaded
+12:46:11,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:46:11,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_2000_2.doc has been downloaded
+12:46:13,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:46:13,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_5000_2.doc has been downloaded
+12:46:19,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:46:19,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_2000_1.doc has been downloaded
+12:46:21,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:46:21,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_100_1.doc has been downloaded
+12:46:22,Microsoft.SharePoint.Client.File.Name has been downloaded
+12:46:22,C:\Users\duranand\Documents\MS_AZURE_Files\MS_O365_Tool/Sample_Files/Word_Document_5000_3.doc has been downloaded
+12:46:27,Download completed
+12:46:28,local files deleted
+12:46:30,Document library deleted
